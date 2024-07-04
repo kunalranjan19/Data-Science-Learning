@@ -1,0 +1,2 @@
+simple liner regression-numeric value jb predict krna ho
+or isme jb independent variable features mai aaata to error bhot km ho jate.
